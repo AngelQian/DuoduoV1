@@ -1,0 +1,28 @@
+<!--<!DOCTYPE hibernate-mapping-->
+        <!--PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"-->
+        <!--"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">-->
+<!--<hibernate-mapping package="com.duoduo.repositories">-->
+    <!--<class name="User" table="USER">-->
+        <!--<id name="uid" type="string" column="uid">-->
+            <!--<generator class="identity" />-->
+        <!--</id>-->
+        <!--<property name="uname" type="string">-->
+            <!--<column name="uname" not-null="true" />-->
+        <!--</property>-->
+        <!--<property name="upwd" type="string">-->
+            <!--<column name="upwd" not-null="true" />-->
+        <!--</property>-->
+        <!--<property name="uemail" type="string">-->
+            <!--<column name="uemail" not-null="true" />-->
+        <!--</property>-->
+        <!--<property name="uqq" type="string">-->
+            <!--<column name="uqq" not-null="true" />-->
+        <!--</property>-->
+        <!--<property name="uactive" type="boolean">-->
+            <!--<column name="uactive"/>-->
+        <!--</property>-->
+        <!--<property name="uword" type="string">-->
+            <!--<column name="uword"/>-->
+        <!--</property>-->
+    <!--</class>-->
+<!--</hibernate-mapping>-->

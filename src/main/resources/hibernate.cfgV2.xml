@@ -1,0 +1,17 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<!DOCTYPE hibernate-configuration SYSTEM-->
+        <!--"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">-->
+
+<!--<hibernate-configuration>-->
+    <!--<session-factory>-->
+        <!--&lt;!&ndash;<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>&ndash;&gt;-->
+        <!--&lt;!&ndash;<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>&ndash;&gt;-->
+        <!--&lt;!&ndash;<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/duoduo?useSSL=false</property>&ndash;&gt;-->
+        <!--&lt;!&ndash;<property name="hibernate.connection.username">root</property>&ndash;&gt;-->
+        <!--&lt;!&ndash;<property name="hibernate.connection.password">1111</property>&ndash;&gt;-->
+
+        <!--&lt;!&ndash; For Hibernate XML mappings &ndash;&gt;-->
+        <!--&lt;!&ndash;<mapping resource="/com/duoduo/repositories/User.hbmV2.xml" />&ndash;&gt;-->
+
+    <!--</session-factory>-->
+<!--</hibernate-configuration>-->
